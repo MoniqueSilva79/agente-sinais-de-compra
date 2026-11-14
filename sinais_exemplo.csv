@@ -1,0 +1,6 @@
+empresa,setor,regiao,funcionarios,tipo_sinal,descricao_sinal,data_sinal,fonte
+Alfa Seguros,Seguros,Sudeste,2400,novo_executivo,novo CIO anunciado,2026-11-03,https://exemplo.com/noticia-alfa
+Beta Varejo,Varejo,Sudeste,5100,vagas_tecnologia,3 vagas de engenharia de dados,2026-11-06,https://exemplo.com/vagas-beta
+Gama Logística,Logística,Sul,1300,edital_publico,edital público de serviços de nuvem,2026-09-20,https://exemplo.com/edital-gama
+Delta Saúde,Saúde,Sudeste,3800,expansao,a nova unidade em Campinas,2026-08-25,https://exemplo.com/delta-expansao
+Ômega Têxtil,Indústria,Nordeste,350,,,,

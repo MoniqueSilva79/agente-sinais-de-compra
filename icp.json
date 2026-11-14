@@ -1,0 +1,5 @@
+{
+  "setores": ["Seguros", "Varejo", "Logística", "Saúde", "Financeiro"],
+  "regioes": ["Sudeste", "Sul"],
+  "funcionarios_min": 500
+}
